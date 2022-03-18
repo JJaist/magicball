@@ -41,3 +41,4 @@ puts hello.sample
 puts
 sleep(2)
 puts answers.sample
+puts "Good luck!"
