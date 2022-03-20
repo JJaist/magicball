@@ -8,5 +8,5 @@
 1. Скопируйте на компьютер файл magic_ball.rb
 2. Запустите в консоли
    ```
-   ruby ьфпшс_ball.rb
+   ruby magic_ball.rb
    ```
