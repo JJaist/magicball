@@ -1,10 +1,9 @@
-## Программа Magic ball
-![foo](/https://commons.wikimedia.org/wiki/File:Magic_eight_ball.png?uselang=ru "magic ball")
+## Программа Magic ball 
 
 Шар вопросов и ответов, шар предсказаний — игрушка, шуточный способ предсказывать будущее.
-[https://ru.wikipedia.org/wiki/Magic_8_ball]
+Подробнее об игре можно почитать <a href="https://ru.wikipedia.org/wiki/Magic_8_ball" title="тут">тут</a>.
 
-Программа написана на языке  RUBY. 
+Программа написана на языке  RUBY version 3.1.0. 
 
 Для того чтобы запустить программу: 
 1. Скопируйте файл magic_ball.rb
