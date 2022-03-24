@@ -11,3 +11,5 @@
    ```
    ruby magic_ball.rb
    ```
+Автор: 
+<a href="https://github.com/JJaist" title="JJaist">JJaist</a>
